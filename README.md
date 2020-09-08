@@ -1,3 +1,8 @@
+Used with permission, I guess! 
+Read me for how I copied and modified the portfolio template below.
+Enjoy.
+
+
 # Clever Programmer ReactJS Portfolio Template      
 
 ## 👇 WATCH THIS FIRST 👇
